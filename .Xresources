@@ -1,0 +1,24 @@
+! #include "/home/rez/.config/colors/earth"
+#include "/home/rez/.config/colors/sero"
+! include "/home/rez/.config/colors/blush"
+! #include "/home/rez/.config/colors/light"
+! #include "/home/rez/.config/colors/poppy"
+! #include "/home/rez/.config/colors/you"
+
+
+! URxvt.cursorUnderline: true
+URxvt.scrollBar: false
+!   URxvt.keysym.Shift-Up: command:\033]720;1\007
+!   URxvt.keysym.Shift-Down: command:\033]721;1\007
+! URxvt.perl-ext-common: clipboard
+! URxvt.font: -misc-termsyn-medium-r-normal--14-101-100-100-c-70-iso8859-1
+! URxvt.font: -gohu-gohufont-medium-r-normal-*-14-100-100-100-c-80-iso10646-1
+URxvt.font: xft:source code pro:size=9
+URxvt.letterSpace: -1
+URxvt.internalBorder: 4
+
+! *VT100.colorBDMode:                   true
+! *VT100.colorBD:                       red
+! *VT100.colorULMode:                   true
+! *VT100.colorUL:                       magenta
+! *VT100.veryBoldColors:                6
